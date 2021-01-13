@@ -1,0 +1,1 @@
+export var message = "Hello From test-1..."

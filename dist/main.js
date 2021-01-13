@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Hello Console..."),console.log("Hello From test-1..."),document.write("<h1>Hello Document...</h1>")})();
